@@ -1,0 +1,11 @@
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+print("hello this git and github work shop")
+print("hello this git and github work shop")
