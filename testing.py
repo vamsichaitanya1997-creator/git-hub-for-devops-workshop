@@ -2,7 +2,7 @@ print("hello this git and github work shop")
 print("hello this git and github work shop")
 print("hello this git and github work shop")
 print("hello this git and github work shop")
-
+print("*"*20)
 print("hello this git and github work shop")
 print("hello this git and github work shop")
 print("hello this git and github work shop")
