@@ -1,1 +1,5 @@
-new changes
+git init
+git status
+git add "filename"
+git commit -m "commit message"
+git restore "filename"
